@@ -19,10 +19,6 @@
 *.tar.gz
 *.rar
 
-# Mac #
-*.DS_Store?
-*.DS_Store
-
 # IntelliJ #
 /target
 *.iml
